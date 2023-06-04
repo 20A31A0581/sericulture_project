@@ -5,7 +5,7 @@ Here we created a Sericulture Website that helps people to identify Health issue
 ## HOME PAGE
 
 ## IMPORTANCE OF SERICULTURE
-![Screenshot (44)](https://github.com/20A31A0581/sericulture_project/assets/110161481/1e7c2a6d-ce43-480f-85c1-2b680a9ac9ab)
+![Screenshot (64)](https://github.com/20A31A0581/sericulture_project/assets/110161481/c448ff54-b9b2-48b4-9033-44f61f975e35)
 ![Screenshot (45)](https://github.com/20A31A0581/sericulture_project/assets/110161481/dce4fc2f-b741-41df-b541-5f6c5b303b13)
 ![Screenshot (46)](https://github.com/20A31A0581/sericulture_project/assets/110161481/c0cbf578-b189-442e-8cad-f6ee371b644a)
 ![Screenshot (47)](https://github.com/20A31A0581/sericulture_project/assets/110161481/90a13800-d803-4757-941b-61a9e9955aa2)
