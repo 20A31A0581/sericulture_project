@@ -3,9 +3,8 @@ Here we created a Sericulture Website that helps people to identify Health issue
 ## sericulture_project
 ## Our website link:https://jolly-smoke-0f1244d10.3.azurestaticapps.net/
 ## HOME PAGE
-
-## IMPORTANCE OF SERICULTURE
 ![Screenshot (64)](https://github.com/20A31A0581/sericulture_project/assets/110161481/c448ff54-b9b2-48b4-9033-44f61f975e35)
+## IMPORTANCE OF SERICULTURE
 ![Screenshot (45)](https://github.com/20A31A0581/sericulture_project/assets/110161481/dce4fc2f-b741-41df-b541-5f6c5b303b13)
 ![Screenshot (46)](https://github.com/20A31A0581/sericulture_project/assets/110161481/c0cbf578-b189-442e-8cad-f6ee371b644a)
 ![Screenshot (47)](https://github.com/20A31A0581/sericulture_project/assets/110161481/90a13800-d803-4757-941b-61a9e9955aa2)
@@ -20,6 +19,8 @@ Here we created a Sericulture Website that helps people to identify Health issue
 ![Screenshot (57)](https://github.com/20A31A0581/sericulture_project/assets/110161481/d1acec7b-e237-4dbb-8da2-a708a9a9fa64)
 ## CONTACT US
 ![Screenshot (56)](https://github.com/20A31A0581/sericulture_project/assets/110161481/1356357d-2218-4043-9439-e5563064d1b1)
+## CHATBOT
+![Screenshot (65)](https://github.com/20A31A0581/sericulture_project/assets/110161481/b0946b6c-7e99-4c93-92a4-50c66633557e)
 
 
 
