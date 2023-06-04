@@ -1,3 +1,5 @@
+## frt:Future Ready Talent Project.
+Here we created a Sericulture Website that helps people to identify Health issues faced by Sericulture workers and we also provided Precautions and medicines to be taken to overcome those health hazards.
 ## sericulture_project
 ## Our website link:https://jolly-smoke-0f1244d10.3.azurestaticapps.net/
 ## HOME PAGE
