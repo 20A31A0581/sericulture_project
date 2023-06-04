@@ -18,7 +18,7 @@ Here we created a Sericulture Website that helps people to identify Health issue
 ![Screenshot (53)](https://github.com/20A31A0581/sericulture_project/assets/110161481/d0d6d965-1c27-4221-9f64-ac2bbc371684)
 ![Screenshot (54)](https://github.com/20A31A0581/sericulture_project/assets/110161481/6d864d03-3a97-4958-813f-f6fcb6e7118e)
 ![Screenshot (57)](https://github.com/20A31A0581/sericulture_project/assets/110161481/d1acec7b-e237-4dbb-8da2-a708a9a9fa64)
-##CONTACT US
+## CONTACT US
 ![Screenshot (56)](https://github.com/20A31A0581/sericulture_project/assets/110161481/1356357d-2218-4043-9439-e5563064d1b1)
 
 
